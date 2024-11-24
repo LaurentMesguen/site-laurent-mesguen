@@ -1,4 +1,3 @@
-import React from 'react';
 import { Github, Linkedin, BookOpen } from 'lucide-react';
 
 
@@ -13,7 +12,7 @@ const Hero = () => {
           <img
             src={profilePic}
             alt="Laurent Mesguen"
-            className="rounded-full w-32 h-32 object-cover mb-6 ring-4 ring-indigo-500/50"
+            className="rounded-full w-40 h-40 object-cover object-[45%_35%] mb-6 ring-4 ring-indigo-500/50"
           />
           <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-purple-500">
             Laurent Mesguen

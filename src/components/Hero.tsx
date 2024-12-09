@@ -17,7 +17,7 @@ const Hero = () => {
           <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-purple-500">
             Laurent Mesguen
           </h1>
-          <p className="text-xl text-gray-300 mb-3">Freelance C++/Python Developer</p>
+          <p className="text-xl text-gray-300 mb-3">Freelance C++/Python Qt/QML Developer</p>
           <p className="text-lg text-gray-400 mb-6">UI/UX Designer & Cross-Platform Expert</p>
           <div className="flex gap-6 relative z-50">
             <a

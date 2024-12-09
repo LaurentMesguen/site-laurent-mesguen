@@ -15,7 +15,7 @@ const Schedule = () => {
                     href="https://calendly.com/l-mesguen/30min"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-indigo-600 hover:bg-indigo-700 transition-colors font-semibold"
+                    className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-indigo-600 hover:bg-indigo-700 transition-colors font-semibold duration-300"
                 >
                     Schedule a 30-min Call
                 </a>
